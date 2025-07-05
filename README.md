@@ -56,4 +56,8 @@ MIT License
 
 ## 👨‍💻 Tác giả
 
-**VivuCloud**
+**VivuCloud + AI**
+
+## Từ chối tránh nhiệm
+
+- Vui lòng mã với mục đích học tập bất cứ hành vi vi phạm pháp luật dựa trên các mã trên bạn đều phải tự chịu trách nhiệm.
